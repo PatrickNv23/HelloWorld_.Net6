@@ -1,0 +1,15 @@
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+E:\Dasser\Aprendizaje .NET 6\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
